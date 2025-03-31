@@ -19,11 +19,11 @@ naar/van servers via het internet.
 ---
 
 ### Voordelen en nadelen van FTP
-| **Voordelen**                        | **Nadelen**                                    |
+| **Voordelen** | **Nadelen** |
 | :---: | :---: |
-| Snel en eenvoudig                    | Geen ingebouwde encryptie                      |
-| Veel ondersteuning online            | Kwetsbaar voor hacking                         |
-| Kan grote bestanden overdragen       | Gebruikersnamen en wachtwoorden niet veilig    |
+| Snel en eenvoudig | Geen ingebouwde encryptie |
+| Veel ondersteuning online | Kwetsbaar voor hacking |
+| Kan grote bestanden overdragen | Gebruikersnamen en wachtwoorden niet veilig |
 
 ---
 
