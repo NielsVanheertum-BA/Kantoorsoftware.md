@@ -19,6 +19,7 @@ naar/van servers via het internet.
 ---
 
 ### Voordelen en nadelen van FTP
+
 | **Voordeel**                   | **Nadeel**                     |
 |---------------------------------|--------------------------------|
 | Eenvoudig te gebruiken         | Geen encryptie                 |
