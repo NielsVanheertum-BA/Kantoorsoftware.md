@@ -20,11 +20,12 @@ naar/van servers via het internet.
 
 ### Voordelen en nadelen van FTP
 
-| **Voordeel**                   | **Nadeel**                     |
-|---------------------------------|--------------------------------|
-| Eenvoudig te gebruiken         | Geen encryptie                 |
-| Snel bestandsoverdracht        | Gevoelig voor hacks            |
-| Breed ondersteund              | Wachtwoorden worden in platte tekst verzonden |
+| **Bron**      | **Informatie**    | **APA-bronvermelding**       |
+|---------------|-----------------|---------------------------------------------------------|
+| Wikipedia     | Veiligheid                  | Wikipedia. (2025, maart 24). URL. *Wikipedia, de vrije encyclopedie*.  |
+| Google Search | URL-vragen                 | Smit, J. (2023, oktober 15). URL-vragen: Wat je moet weten. |
+
+
 
 
 ---
